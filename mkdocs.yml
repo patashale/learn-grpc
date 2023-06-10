@@ -1,4 +1,7 @@
 site_name: Learn gRPC
+site_url: https://www.patashale.in/learn-grpc/
+site_author: Patashale™
+site_description: Learn everything about gRPC here at Patashale™.
 repo_url: https://github.com/patashale/learn-grpc
 repo_name: patashale/learn-grpc
 theme:
